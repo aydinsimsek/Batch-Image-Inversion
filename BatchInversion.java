@@ -2,7 +2,7 @@
  * Batch Image Inversion
  * 
  * @author Aydin Simsek
- * @date 07/07/2022
+ * @date 07/06/2022
 *************************/
 
 import edu.duke.*;
